@@ -1,2 +1,0 @@
-# nomi.sol
-project nomi
